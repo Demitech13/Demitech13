@@ -5,5 +5,5 @@
 ## Tecnologias que estou aprendendo!
 
 * Lógica de programação
-*Frameworks
-*Git
+* Frameworks
+* Git
